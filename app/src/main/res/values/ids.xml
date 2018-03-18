@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editState" type="id" />
+    <item name="eName" type="id" />
+    <item name="editName" type="id">Name</item>
+    <item name="editContact" type="id">int</item>
+    <item name="editBloodgroup" type="id" />
+    <item name="GoogleBtn" type="id" />
+    <item name="btnLogout" type="id" />
+    <item name="btnExit" type="id" />
+    <item name="btnexit" type="id" />
+</resources>

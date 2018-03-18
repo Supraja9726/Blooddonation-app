@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "361665252577",
+    "firebase_url": "https://donate-2d1ee.firebaseio.com",
+    "project_id": "donate-2d1ee",
+    "storage_bucket": "donate-2d1ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361665252577:android:9acade185911ed6c",
+        "android_client_info": {
+          "package_name": "com.example.sowjireddy.blooddonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361665252577-kljtsf4makc4khsdhsg0i6fni9k8pde2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sowjireddy.blooddonate",
+            "certificate_hash": "093636711c694fa3a8240bbb9e3b11a8928f243d"
+          }
+        },
+        {
+          "client_id": "361665252577-bv8oar26n6e9n1ikunugn7tpusk7f2o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxTMug54LhM5qgmLt6rg7YZR6thtvhSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361665252577-bv8oar26n6e9n1ikunugn7tpusk7f2o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
